@@ -1,6 +1,6 @@
 # 🐜Thysanoptera
 
-- [Link do projeto](www.thysanoptera.com.br)
+- [Link do projeto](http://www.thysanoptera.com.br)
 
 ### Site institucional para informações e armazenamento de conteúdos 'dos Tripes' pequenos insetos.
 

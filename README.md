@@ -1,6 +1,6 @@
 # 🐜Thysanoptera
 
-- [Link do projeto](http://www.thysanoptera.com.br)
+- <a href="http://www.thysanoptera.com.br" target="_blank">Link do projeto</a>
 
 ### Site institucional para informações e armazenamento de conteúdos 'dos Tripes' pequenos insetos.
 
@@ -24,4 +24,4 @@
 - [MySql](https://www.mysql.com/)
 
 
-<small style="font-size: 10px">*Criado quando trabalhei na [Hostche](http://www.hostche.com.br)</small>
+<small style="font-size: 10px">*Criado quando trabalhei na <a href="https://www.hostche.com.br/" target="_blank">Hostche</a></small>

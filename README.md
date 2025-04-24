@@ -4,7 +4,6 @@
 
 ### Site institucional para informações e armazenamento de conteúdos 'dos Tripes' pequenos insetos.
 
-</br>
 ## 🗒️ Features do projeto 🗒️
 
 - Área os tripes
